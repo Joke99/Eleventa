@@ -28,8 +28,8 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.IdD = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -41,6 +41,8 @@
             this.groupBox4 = new System.Windows.Forms.GroupBox();
             this.txtIgv = new System.Windows.Forms.TextBox();
             this.label12 = new System.Windows.Forms.Label();
+            this.btnBusquedaProducto = new System.Windows.Forms.Button();
+            this.btnAgregar = new System.Windows.Forms.Button();
             this.txtCantidad = new System.Windows.Forms.TextBox();
             this.label10 = new System.Windows.Forms.Label();
             this.txtPVenta = new System.Windows.Forms.TextBox();
@@ -59,8 +61,6 @@
             this.button3 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
-            this.btnBusquedaProducto = new System.Windows.Forms.Button();
-            this.btnAgregar = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.groupBox4.SuspendLayout();
             this.SuspendLayout();
@@ -108,9 +108,9 @@
             // 
             // Column4
             // 
-            dataGridViewCellStyle1.Format = "C2";
-            dataGridViewCellStyle1.NullValue = null;
-            this.Column4.DefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle3.Format = "C2";
+            dataGridViewCellStyle3.NullValue = null;
+            this.Column4.DefaultCellStyle = dataGridViewCellStyle3;
             this.Column4.HeaderText = "P. VENTA.";
             this.Column4.Name = "Column4";
             this.Column4.ReadOnly = true;
@@ -118,9 +118,9 @@
             // 
             // Column3
             // 
-            dataGridViewCellStyle2.Format = "C2";
-            dataGridViewCellStyle2.NullValue = null;
-            this.Column3.DefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle4.Format = "C2";
+            dataGridViewCellStyle4.NullValue = null;
+            this.Column3.DefaultCellStyle = dataGridViewCellStyle4;
             this.Column3.HeaderText = "IMPORTE";
             this.Column3.Name = "Column3";
             this.Column3.ReadOnly = true;
@@ -182,6 +182,30 @@
             this.label12.Size = new System.Drawing.Size(49, 18);
             this.label12.TabIndex = 12;
             this.label12.Text = "I.V.A. :";
+            // 
+            // btnBusquedaProducto
+            // 
+            this.btnBusquedaProducto.ForeColor = System.Drawing.Color.Black;
+            this.btnBusquedaProducto.Image = global::PuntoVentaApp.Properties.Resources.FontAwesome_f002_0__481;
+            this.btnBusquedaProducto.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnBusquedaProducto.Location = new System.Drawing.Point(685, 45);
+            this.btnBusquedaProducto.Name = "btnBusquedaProducto";
+            this.btnBusquedaProducto.Size = new System.Drawing.Size(136, 35);
+            this.btnBusquedaProducto.TabIndex = 11;
+            this.btnBusquedaProducto.Text = "&Buscar";
+            this.btnBusquedaProducto.UseVisualStyleBackColor = true;
+            // 
+            // btnAgregar
+            // 
+            this.btnAgregar.ForeColor = System.Drawing.Color.Black;
+            this.btnAgregar.Image = global::PuntoVentaApp.Properties.Resources.FontAwesome_f067_0__48;
+            this.btnAgregar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnAgregar.Location = new System.Drawing.Point(539, 45);
+            this.btnAgregar.Name = "btnAgregar";
+            this.btnAgregar.Size = new System.Drawing.Size(140, 35);
+            this.btnAgregar.TabIndex = 10;
+            this.btnAgregar.Text = "&Agregar";
+            this.btnAgregar.UseVisualStyleBackColor = true;
             // 
             // txtCantidad
             // 
@@ -387,30 +411,6 @@
             this.button1.Text = "&Cobrar";
             this.button1.UseVisualStyleBackColor = false;
             // 
-            // btnBusquedaProducto
-            // 
-            this.btnBusquedaProducto.ForeColor = System.Drawing.Color.Black;
-            this.btnBusquedaProducto.Image = global::PuntoVentaApp.Properties.Resources.FontAwesome_f002_0__481;
-            this.btnBusquedaProducto.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnBusquedaProducto.Location = new System.Drawing.Point(685, 45);
-            this.btnBusquedaProducto.Name = "btnBusquedaProducto";
-            this.btnBusquedaProducto.Size = new System.Drawing.Size(136, 35);
-            this.btnBusquedaProducto.TabIndex = 11;
-            this.btnBusquedaProducto.Text = "&Buscar";
-            this.btnBusquedaProducto.UseVisualStyleBackColor = true;
-            // 
-            // btnAgregar
-            // 
-            this.btnAgregar.ForeColor = System.Drawing.Color.Black;
-            this.btnAgregar.Image = global::PuntoVentaApp.Properties.Resources.FontAwesome_f067_0__48;
-            this.btnAgregar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnAgregar.Location = new System.Drawing.Point(539, 45);
-            this.btnAgregar.Name = "btnAgregar";
-            this.btnAgregar.Size = new System.Drawing.Size(140, 35);
-            this.btnAgregar.TabIndex = 10;
-            this.btnAgregar.Text = "&Agregar";
-            this.btnAgregar.UseVisualStyleBackColor = true;
-            // 
             // Venta
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -435,6 +435,7 @@
             this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Venta";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.Venta_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.groupBox4.ResumeLayout(false);

@@ -17,3 +17,13 @@ C:\Users\BrendaJudith\Source\Repos\Eleventa\BussinesEntities\bin\Debug\EntityFra
 C:\Users\BrendaJudith\Source\Repos\Eleventa\BussinesEntities\obj\Debug\BussinesEntities.csprojResolveAssemblyReference.cache
 C:\Users\BrendaJudith\Source\Repos\Eleventa\BussinesEntities\obj\Debug\BussinesEntities.dll
 C:\Users\BrendaJudith\Source\Repos\Eleventa\BussinesEntities\obj\Debug\BussinesEntities.pdb
+C:\Users\saap_\Source\Repos\Eleventa2\BussinesEntities\bin\Debug\BussinesEntities.dll.config
+C:\Users\saap_\Source\Repos\Eleventa2\BussinesEntities\bin\Debug\BussinesEntities.dll
+C:\Users\saap_\Source\Repos\Eleventa2\BussinesEntities\bin\Debug\BussinesEntities.pdb
+C:\Users\saap_\Source\Repos\Eleventa2\BussinesEntities\bin\Debug\EntityFramework.dll
+C:\Users\saap_\Source\Repos\Eleventa2\BussinesEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\saap_\Source\Repos\Eleventa2\BussinesEntities\bin\Debug\EntityFramework.xml
+C:\Users\saap_\Source\Repos\Eleventa2\BussinesEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\saap_\Source\Repos\Eleventa2\BussinesEntities\obj\Debug\BussinesEntities.csprojResolveAssemblyReference.cache
+C:\Users\saap_\Source\Repos\Eleventa2\BussinesEntities\obj\Debug\BussinesEntities.dll
+C:\Users\saap_\Source\Repos\Eleventa2\BussinesEntities\obj\Debug\BussinesEntities.pdb
