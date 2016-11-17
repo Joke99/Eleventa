@@ -1,0 +1,12 @@
+C:\Users\BrendaJudith\Source\Repos\Eleventa\PuntoVentaApp\obj\Debug\PuntoVentaApp.csprojResolveAssemblyReference.cache
+C:\Users\BrendaJudith\Source\Repos\Eleventa\PuntoVentaApp\obj\Debug\VinoTekiApp.Login.resources
+C:\Users\BrendaJudith\Source\Repos\Eleventa\PuntoVentaApp\obj\Debug\VinoTekiApp.MdiParent.resources
+C:\Users\BrendaJudith\Source\Repos\Eleventa\PuntoVentaApp\obj\Debug\VinoTekiApp.Interface_Producto.Producto.resources
+C:\Users\BrendaJudith\Source\Repos\Eleventa\PuntoVentaApp\obj\Debug\PuntoVentaApp.Properties.Resources.resources
+C:\Users\BrendaJudith\Source\Repos\Eleventa\PuntoVentaApp\obj\Debug\VinoTekiApp.Interface_Venta.Venta.resources
+C:\Users\BrendaJudith\Source\Repos\Eleventa\PuntoVentaApp\obj\Debug\PuntoVentaApp.csproj.GenerateResource.Cache
+C:\Users\BrendaJudith\Source\Repos\Eleventa\PuntoVentaApp\bin\Debug\PuntoVentaApp.exe.config
+C:\Users\BrendaJudith\Source\Repos\Eleventa\PuntoVentaApp\bin\Debug\PuntoVentaApp.exe
+C:\Users\BrendaJudith\Source\Repos\Eleventa\PuntoVentaApp\bin\Debug\PuntoVentaApp.pdb
+C:\Users\BrendaJudith\Source\Repos\Eleventa\PuntoVentaApp\obj\Debug\PuntoVentaApp.exe
+C:\Users\BrendaJudith\Source\Repos\Eleventa\PuntoVentaApp\obj\Debug\PuntoVentaApp.pdb
